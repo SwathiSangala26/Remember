@@ -1,2 +1,4 @@
 1. map.get(key)
 2. map.put(key,value)
+3. map.putIfAbset(key,value)
+4. map.get(key).add(value)
