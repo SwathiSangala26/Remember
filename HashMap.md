@@ -3,3 +3,4 @@
 3. map.putIfAbset(key,value)
 4. map.get(key).add(value)
 5. map.values()
+6. map.containsKey(key)
