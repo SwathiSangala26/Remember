@@ -4,3 +4,4 @@
 4. map.get(key).add(value)
 5. map.values()
 6. map.containsKey(key)
+7. Map.Entry<Integer,Integer> entry : map.entrySet() => entry.getKey() & entry.getValue()
